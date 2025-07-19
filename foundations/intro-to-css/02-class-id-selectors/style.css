@@ -1,0 +1,20 @@
+.pink-colored {
+  background-color: rgb(255, 192, 203);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.big-pink-colored {
+  font-size: 24px;
+}
+
+#number-2 {
+  color: blue;
+  font-size: 36px;
+}
+
+#number-4 {
+  /* a light green background, a font size of 24px, and bold */
+  background-color: rgb(150, 255, 150);
+  font-size: 24px;
+  font-weight: bold;
+}
